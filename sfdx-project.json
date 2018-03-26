@@ -10,6 +10,6 @@
     }
   ],
   "namespace": "",
-  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sfdcLoginUrl": "https://battlestar-x-wing-128204.my.salesforce.com",
   "sourceApiVersion": "42.0"
 }
